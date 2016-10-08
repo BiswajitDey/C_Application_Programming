@@ -1,0 +1,72 @@
+root@biswajit-Inspiron-N5010:/home/biswajit/Downloads# ./string_op 
+Enter a string:test
+
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:1
+
+1.In the beginning
+2.Before a character
+3.After a character
+4.In the end
+
+Enter a choice:1
+Enter a character:r
+Character inserted..!!
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:4
+r	t	e	s	t	
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:3
+Not a palindrome..!!
+
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:2
+
+1.In the beginning
+2.Before a character
+3.After a character
+4.In the end
+
+Enter a choice:1
+Character deleted..!!
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:4
+t	e	s	t	
+***MENU***
+1.Insert
+2.Delete
+3.Check Palindrome
+4.Display
+5.Exit
+
+Enter your choice:5
