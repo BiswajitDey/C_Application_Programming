@@ -1,0 +1,10 @@
+root@biswajit-Inspiron-N5010:/home/biswajit/Downloads# ./client 127.0.0.1 5000
+Enter your name :anon
+anon: hi
+known:cool! we can chat!
+
+
+root@biswajit-Inspiron-N5010:/home/biswajit/Downloads# ./server 5000
+Enter your name :known
+anon:hi
+known :cool! we can chat!
